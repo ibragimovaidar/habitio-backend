@@ -1,0 +1,7 @@
+# config for local + default
+
+SERVER_PORT: 8080
+
+JDBC_URL: r2dbc:postgresql://localhost:5437/postgres
+JDBC_USERNAME: postgres
+JDBC_PASSWORD: postgres
